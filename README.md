@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vvywHDx16aF28xRQbr/giphy.gif" width="300" height="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vvywHDx16aF28xRQbr/giphy.gif" width="400" height="300" />
 
 <!--
 **sergyer/sergyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
