@@ -6,6 +6,7 @@
 ### Techonlogies:
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"/>
 
 <!--
 **sergyer/sergyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
