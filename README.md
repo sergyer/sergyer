@@ -5,7 +5,7 @@
 
 ### Techonlogies:
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/tomcat.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/tomcat.png"/> <img src="https://camo.githubusercontent.com/fa56c8e05f960e52642c7c3346f3c61a2ed81854d78700d4272a817b31416e96/68747470733a2f2f7777772e76657261636f64652e636f6d2f73697465732f64656661756c742f66696c65732f6d6176656e2d69636f6e2e706e67"/>  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> 
 <!--
 **sergyer/sergyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
