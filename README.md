@@ -1,4 +1,4 @@
-## Making awesome things for awesome people  
+## building great products with great people
 <img align="right" alt="GIF" src="https://media.giphy.com/media/vvywHDx16aF28xRQbr/giphy.gif" width="350" height="300" />
  
 <br />
